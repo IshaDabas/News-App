@@ -12,5 +12,9 @@
   "description": "A simple news website",
   "devDependencies": {
     "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.5",
+    "sass": "^1.86.3"
   }
 }
